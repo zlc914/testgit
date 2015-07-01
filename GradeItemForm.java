@@ -12,7 +12,7 @@ import java.io.Serializable;
 public class GradeItemForm implements Serializable {
 
     /**
-     *
+     * vvcfff
      */
     private static final long serialVersionUID = -3436406438995421275L;
     /**キー.*/
